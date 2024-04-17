@@ -1,0 +1,359 @@
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.exe
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.deps.json
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.runtimeconfig.json
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.pdb
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\gabriel_pedro\pam1\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.csproj.AssemblyReference.cache
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.AssemblyInfoInputs.cache
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.AssemblyInfo.cs
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.csproj.CoreCompileInputs.cache
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.csproj.CopyComplete
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.dll
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\programa.dll
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.pdb
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.genruntimeconfig.cache
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\programa.dll
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cara.scale-100.png
+D:\gabriel_pedro\pam1\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coroa.scale-100.png
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.exe
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.deps.json
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.runtimeconfig.json
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.pdb
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\yasmim e rayssa\programa\programa\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.csproj.AssemblyReference.cache
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cara.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coroa.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.AssemblyInfoInputs.cache
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.AssemblyInfo.cs
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.csproj.CoreCompileInputs.cache
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.csproj.CopyComplete
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.dll
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\programa.dll
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.pdb
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\programa.genruntimeconfig.cache
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\programa.dll
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\yasmim e rayssa\programa\programa\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dado.scale-100.png
